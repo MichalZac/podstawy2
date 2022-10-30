@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-pierwszy cos tam commit!
-=======
 pierwszy znowu commit!
->>>>>>> brancz
 
 drugi commit...
